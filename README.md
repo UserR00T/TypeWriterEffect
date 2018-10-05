@@ -70,7 +70,7 @@ Method | Function
 
 Argument | Type | Default | Function
 --- | --- | --- | ---
-``Label`` | ``Panel`` | --- | The label this instance should work on.
+``Label`` | ``Label`` | --- | The label this instance should work on.
 ``messages`` | ``List<Label>`` | --- | List of messages it'll go through.
 ``delayInMiliSeconds`` | ``int`` | --- | The delay between ticks in milliseconds.
 ``repeatCursorTimes`` | ``int`` | ``5`` | How many times should it repeat the ending cursor?
